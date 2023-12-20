@@ -1,0 +1,7 @@
+S,Student1,1234
+S,Student2,1244
+S,Student3,1254
+S,Student4,1289
+P,Professor1,P1,MBA
+P,Professor2,P2,PhD
+P,Professor3,P3,MS

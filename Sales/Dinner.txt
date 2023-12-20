@@ -1,0 +1,4 @@
+John Doe;Dinner;45.69;04/19/2020
+Jane Smith;Dinner;50.0;04/19/2021
+Shreyas Srinivasa;Dinner;99.99;06/01/2021
+Rahul Jain;Dinner;69.97;01/01/2021

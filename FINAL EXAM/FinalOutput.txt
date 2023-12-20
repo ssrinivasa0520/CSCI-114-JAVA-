@@ -1,0 +1,12 @@
+Student1-1234
+CL1 Class1   Professor1 MBA
+CL2 Class2   Professor2 PhD
+CL3 Class3   Professor3 MS
+Student2-1244
+CL3 Class3   Professor3 MS
+Student3-1254
+CL2 Class2   Professor2 PhD
+CL3 Class3   Professor3 MS
+Student4-1289
+Students with no class assignment
+Student4-1289

@@ -1,0 +1,7 @@
+John Doe;Dinner;45.69;04/19/2020
+Sean Kim;Conference; 1000.00;05/03/2021
+Mike Jones;Conference;750.00;05/01/2021
+Jane Smith;Dinner;50.00;04/19/2021
+Shreyas Srinivasa;Dinner;99.99;06/01/2021
+Rahul Jain;Dinner;  69.97;01/01/2021
+Jason Abrahams;Conference; 991.08; 09/02/2020
